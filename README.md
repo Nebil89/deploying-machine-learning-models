@@ -5,3 +5,12 @@ For the documentation, visit the [course on Udemy](https://www.udemy.com/deploym
 
 
 Here is the URL for the Dropbox presentation : [presentation](https://www.dropbox.com/sh/effzx0nmstqcr2e/AAB4sB33hv5jULKj-6cj3XqQa?dl=0).
+
+
+[Resources to learn more about Python programming](https://trainindata.medium.com/discover-the-best-resources-to-learn-python-for-data-science-35b87d38fadf)
+
+[Resources to learn more about R programming](https://trainindata.medium.com/find-out-the-best-resources-to-learn-r-for-data-science-9ff1743b274b)
+
+[Resources to learn more about Machine Learning](https://trainindata.medium.com/find-out-the-best-resources-to-learn-machine-learning-cd560beec2b7)
+
+[Resources to learn more about Data Science](https://trainindata.medium.com/discover-the-best-resources-to-learn-data-science-2978499fc804)
